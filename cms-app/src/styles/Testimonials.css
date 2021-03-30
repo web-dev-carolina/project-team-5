@@ -1,0 +1,10 @@
+.card-buttons {
+    display: flex;
+    justify-content: center;
+}
+
+.page-buttons {
+    display: flex;
+    justify-content: right;
+}
+
